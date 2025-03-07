@@ -3,8 +3,14 @@ let struct = {
     string: 'string',
     createNumber: function (ref) {
         //
-        let nu = new Number();
-        return nu =100;
+        try{
+            let nu = new Number();
+            return nu = 100;
+        }catch(e){
+
+        }finally{
+
+        };
     },
     boolean:  false,
     createStructure: function () {
@@ -13,6 +19,8 @@ let struct = {
     },
     initStructure: function (obj={}) {
         //
+        if(obj.isObject()){
 
+        };
     },
 };

@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ae84981-9c08-44d6-98d0-d888d53f0f15" name="Default Changelist" comment="" />
+    <list default="true" id="0ae84981-9c08-44d6-98d0-d888d53f0f15" name="Default Changelist" comment="irst commmit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/makingLibrary_Sementsov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/biblioteka_wfkpskfz6mh5.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/biblioteka_wfkpskfz6mh5_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/biblioteka_wfkpskfz6mh5_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/biblioteka_wfkpskfz6mh5_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/biblioteka_wfkpskfz6mh5_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/biblioteka_wfkpskfz6mh5_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/library_wfkpskfz6mh5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/benchmarks/benchmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/change.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/hunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/actor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/binary_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blame_line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/commit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/commit_stats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/file_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/file_window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_file_operations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/directory_entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_blob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_commit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/loose_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/merge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/pack_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/raw_object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/ref.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/remote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/repo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/repository.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/status_file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/sub_module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/git/user_info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/sprintf/sprintf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/lib/zlib/zlib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/git/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/mime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/types/mime.types" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mime/types/node.types" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struct.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,11 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,6 +135,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -79,22 +154,36 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="makingLibrary_Sementsov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makingLibrary_Sementsov" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../TEACHING_HTML_CSS/smallProjects/MichailSementsovModule5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,12 +219,21 @@
       <updated>1741173668572</updated>
       <workItem from="1741173670385" duration="3279000" />
       <workItem from="1741259446476" duration="685000" />
-      <workItem from="1741334994131" duration="1270000" />
+      <workItem from="1741334994131" duration="2522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5234000" />
+    <option name="totallyTimeSpent" value="6486000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -143,6 +241,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SVN Repositories" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -151,7 +250,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32777777" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -162,6 +261,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="irst commmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="irst commmit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -187,11 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
