@@ -1,0 +1,14 @@
+{
+  "name": "makinglibrary_sementsov",
+  "version": "1.0.0",
+  "description": "exersize",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "oof",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
